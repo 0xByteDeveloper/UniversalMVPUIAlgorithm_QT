@@ -1,0 +1,9 @@
+umvpqt_cli
+demo_qt5
+demo_qt6
+*.o
+build_*.cpp
+/tmp/
+*.json
+*.txt
+asm_output/
