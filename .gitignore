@@ -2,5 +2,6 @@ bin/
 build/
 *.o
 *.a
-umvpqt_cli
-umvpqt
+/umvpqt_cli
+/umvpqt
+/umvp_outer
