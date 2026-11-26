@@ -1,0 +1,13 @@
+# yap ürünleri
+umvpqt_cli
+uqt_agent
+demo_qt6
+demo_qt5
+vmprotect_mock
+*.o
+*.obj
+build/
+build_moc*.cpp
+tests/demo_target/*_moc*.inc
+tests/vmprotect_mock/*_moc*.inc
+sandbox_proof/
